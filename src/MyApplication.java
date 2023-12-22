@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.io.FileNotFoundException;
 import java.io.File;
 
-public class Main {
+public class MyApplication {
     public static void main(String[] args) throws FileNotFoundException {
         File file = new File("C:\\Users\\Пользователь\\IdeaProjects\\untitled2\\src\\source.txt");
 
